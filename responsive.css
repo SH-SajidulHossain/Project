@@ -1,0 +1,121 @@
+
+@media (max-width:1228px) {
+
+
+    .all-image figure {
+        width: 32%;
+    }
+
+    .all-image {
+        gap: 14px;
+        justify-content: center;
+    }
+     
+    .second-sec {
+        padding-bottom: 90px;
+    }
+
+    .button {      
+        padding: 22px 41px;
+    }
+
+    .items {    
+        flex-wrap: wrap;
+    }
+
+    .avater {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    img.avater-image {
+        width: 100%;
+    }
+
+    .avater-one {
+        width: 60%;
+    }
+
+    .avater-one ul li {
+        line-height: 32px;
+       
+    }
+
+    .sub {
+        display: inline-grid;
+    }
+
+}
+
+@media  (max-width:661px) {
+    .button {
+        padding: 22px 10px;
+        text-align: center;
+    }
+
+    .but {
+        flex-direction: column;
+    }
+    .banner img{
+        width: 100%;
+    }
+
+    .banar-side {
+        gap: 0px;
+    }
+    .right-side{
+        display: none;
+    }
+
+    .sec {
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+
+
+    .all-image figure {
+        width: 100%;
+    }
+
+    .text-area {
+        gap: 14px;
+    }
+
+    .text-area a {  
+        font-size: 14px;
+        padding-bottom: 2px;
+    }
+
+    .avater {
+        flex-wrap: wrap;
+    }
+
+    .avater-image{
+        width: 100%;
+    }
+
+    .avater-image img{
+        width: 100%;
+    }
+
+    .items {
+        padding-bottom: 115px;
+    }
+
+    .ancor {
+        line-height: 16px;
+    }
+    .div {
+        gap: 7px;
+    }
+
+    .div:first-child{
+        height: 100px;
+    }
+    
+}  
+
+
+
+
+ 
